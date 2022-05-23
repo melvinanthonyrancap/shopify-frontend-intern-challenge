@@ -127,36 +127,12 @@ main {
   margin-bottom: 1rem;
 }
 
-/* #descriptions .description {
-  display: flex;
-  justify-content: space-between;
-  background-color: var(--dark);
-  padding: 1rem;
-  border-radius: 1rem;
-  margin-bottom: 1rem;
-}
-
-#descriptions .description .content .text {
-  color: var(--darkest);
-  font-size: 1.25rem;
-  width: 100%;
-  display: block;
-} */
-
 .responses {
   font-size: 1.5rem;
   font-weight: 200;
   margin-bottom: 1rem;
   color: var(--darkest);
 }
-
-/* .app {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  background: var(--dark);
-  color: #000;
-} */
 
 input {
   padding: 4px;
